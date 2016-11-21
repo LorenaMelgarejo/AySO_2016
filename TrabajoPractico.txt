@@ -1,0 +1,43 @@
+                          
+                          TRABAJO PRACTICO
+
+                 ARQUITECTURA Y SISTEMAS OPERATIVOS
+
+
+
+
+1)_ mv : permite mover archivos de un directorio a otro, o renombrarlos.
+    cp : permite copiar un archivo.
+
+
+2)_ rm: elimina archivos o  con la opcion -r  tambien directorio .     
+    rmdir: borra solo directorios vacios.
+
+3)_ la opcion cp -r  hace copia de un directorio.
+
+4)_ touch actualiza los registros de fecha y hora .
+
+5)_  : ~$ mkdir -p Analista/ProgramacionII
+     : ~$ mkdir -p Analista/Matematica
+     : ~$ mkdir -p Analista/SistemasOperativos/Alumnos/Notas
+
+
+6)_  : ~$ nano juan.txt
+     : ~$ mv juan.txt analista/SistemasOperativos/alumnos
+
+
+7)_  : ~$ cp -r/etc/motd/Analista/Matematicas
+
+8)_  : ~$ rm -R Analista/SistemasOperativos
+
+9)_  : ~$ mv Notas Notas_Viejas
+
+10)_ : ~$ touch analista/SistemasOperativos
+
+11)_ : ~$ cd/
+     : ~$ ls -all >/home/usuario/Analista/SistemasOperativos/Alumnos/Mis_Alumnos
+
+
+
+      
+ 
